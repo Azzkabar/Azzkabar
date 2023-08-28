@@ -25,7 +25,7 @@
 - [Cheklists]()
 - [Test-Suites and Tast-Cases]()
 - [Bug-Reports]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/Azzkabar/SQL)
 - [Postman Collections]()
 
 ### My social networks
