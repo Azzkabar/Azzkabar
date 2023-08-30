@@ -1,9 +1,17 @@
 ![Header](https://github.com/Azzkabar/Azzkabar/blob/main/assets/qa-testing-header.png)
 
-## I'm a QA Engineer
+## About myself
+My name is Vladimir and I am QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.
 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1ug3_uB8W4VA88OevWPuXA5bfdBlqEiyj/view?usp=sharing)
+## A Few Quick Facts
+<ul>
+<li> I’m currently open to job opportunities as QA Engineer </li>
+<li> I came to IT from the construction business</li>
+<li> Most of my study cases are available on <a href="https://github.com/Azzkabar">Github</a></li> </li>
+<li> Learning JavaScript in my free time</li>
+<li> Check out my <a href="https://drive.google.com/file/d/1ug3_uB8W4VA88OevWPuXA5bfdBlqEiyj/view?usp=sharing">resume</a></li>
+<li> Random fact about me: I like computer games and Wharhammer 40k universe </li>
+</ul>
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
