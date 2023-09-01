@@ -33,12 +33,13 @@ My name is Vladimir and I am QA Engineer. Here I want to share some web and mobi
 - [Web store testing](https://github.com/Azzkabar/Web_store_testing)
 - [SQL Queries](https://github.com/Azzkabar/SQL)
 - [CharlesProxy's requests](https://github.com/Azzkabar/Charles_proxy)
-- [Postman Collections]()
-- [Git]()
+- [Git](https://github.com/Azzkabar/git)
 
 ### My social networks
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vladimir-tambasov/)
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/azkabar/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/azzkabar)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/WWWorm_Azkabar)
+[![Header](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=1c96e8)](mailto:tambasov09@gmail.com)
+
 
