@@ -32,7 +32,9 @@ My name is Vladimir and I am QA Engineer. Here I want to share some web and mobi
 
 - [Web store testing](https://github.com/Azzkabar/Web_store_testing)
 - [SQL Queries](https://github.com/Azzkabar/SQL)
+- [CharlesProxy's requests](https://github.com/Azzkabar/Charles_proxy)
 - [Postman Collections]()
+- [Git]()
 
 ### My social networks
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/vladimir-tambasov/)
