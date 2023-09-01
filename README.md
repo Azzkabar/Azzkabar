@@ -30,9 +30,7 @@ My name is Vladimir and I am QA Engineer. Here I want to share some web and mobi
 
 ### Testing Documentation
 
-- [Cheklists]()
-- [Test-Suites and Tast-Cases]()
-- [Bug-Reports]()
+- [Web store testing](https://github.com/Azzkabar/Web_store_testing)
 - [SQL Queries](https://github.com/Azzkabar/SQL)
 - [Postman Collections]()
 
