@@ -31,6 +31,7 @@ My name is Vladimir and I am QA Engineer. Here I want to share some web and mobi
 ### Testing Documentation
 
 - [Web store testing](https://github.com/Azzkabar/Web_store_testing)
+- [Postman collection](https://github.com/Azzkabar/Postman)
 - [SQL Queries](https://github.com/Azzkabar/SQL)
 - [CharlesProxy's requests](https://github.com/Azzkabar/Charles_proxy)
 - [Git](https://github.com/Azzkabar/git)
